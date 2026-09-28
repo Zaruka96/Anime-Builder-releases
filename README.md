@@ -10,8 +10,7 @@ Vai su **[Releases → Latest](https://github.com/Zaruka96/Anime-Builder-release
 | Sistema | File |
 |---|---|
 | Windows 10/11 (x64) | `ITANI-Downloader_<versione>_windows-x64-setup.exe` (oppure `.msi`) |
-| macOS Apple Silicon (M1…M4) | `ITANI-Downloader_<versione>_macos-arm64.dmg` |
-| macOS Intel | `ITANI-Downloader_<versione>_macos-x64.dmg` |
+| macOS (Apple Silicon e Intel) | `ITANI-Downloader_<versione>_macos-universal.dmg` |
 | Docker / NAS | `docker pull ghcr.io/zaruka96/anime-builder:latest` |
 
 ### Primo avvio
