@@ -1,6 +1,6 @@
 # ITANI App — download
 
-Installer ufficiali di **ITANI App** (fino alla v1.2.00 “Anime Builder”, fino alla v1.3 “ITANI App”) e file usati dall'aggiornamento automatico dell'app.
+Installer ufficiali di **ITANI App** (fino alla v1.2.00 “Anime Builder”, fino alla v1.3 “ITANI Downloader”) e file usati dall'aggiornamento automatico dell'app.
 Il codice sorgente non è pubblico: questo repository contiene solo le release.
 
 ## Scarica l'ultima versione
